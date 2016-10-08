@@ -1,5 +1,6 @@
 ---
-layout:     post
+layout:  post
+mathjax: true
 ---
 
 # headline
