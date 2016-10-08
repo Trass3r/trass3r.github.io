@@ -11,7 +11,7 @@ title:               My Website
 #tagline:             'foo's website
 description:         Foo's blog...
 url: https://trass3r.github.io
-baseurl: "/"
+baseurl: ""
 urlimg: https://trass3r.github.io/images/
 markdown: kramdown
 paginate: 5
