@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width="410.65" height="356.47" version="1.1" viewBox="160.41 1.2914 414.65 360.47" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style>@font-face {
+  font-family: "Open Sans";
+  font-weight: normal;
+  src: url(https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFW50bbck.woff2);
+}</style>
+<path id="a" d="m220 30.16 300 300h-300v-300z"/>
+<path id="b" d="m220 180.89h150v150h-150v-150z"/>
+<text id="d" transform="translate(-37.48 -12.222)" x="198.89" y="343.11" alignment-baseline="before-edge" dominant-baseline="text-before-edge" font-family="Open Sans" font-size="20" letter-spacing="0" style="line-height:100%" xml:space="preserve"><tspan x="198.89" dy="0em" alignment-baseline="before-edge" dominant-baseline="text-before-edge">(-1, -1)</tspan></text>
+<text id="e" transform="translate(171.11 -190.09)" x="198.89" y="343.11" alignment-baseline="before-edge" dominant-baseline="text-before-edge" font-family="Open Sans" font-size="20" letter-spacing="0" style="line-height:100%" xml:space="preserve"><tspan x="198.89" dy="0em" alignment-baseline="before-edge" dominant-baseline="text-before-edge">(1, 1)</tspan></text>
+<text id="f" transform="translate(-30.948 -340.82)" x="198.89" y="343.11" alignment-baseline="before-edge" dominant-baseline="text-before-edge" font-family="Open Sans" font-size="20" letter-spacing="0" style="line-height:100%" xml:space="preserve"><tspan x="198.89" dy="0em" alignment-baseline="before-edge" dominant-baseline="text-before-edge">(-1, 3)</tspan></text>
+<text id="c" transform="translate(321.11 -12.222)" x="198.89" y="343.11" alignment-baseline="before-edge" dominant-baseline="text-before-edge" font-family="Open Sans" font-size="20" letter-spacing="0" style="line-height:100%" xml:space="preserve"><tspan x="198.89" dy="0em" alignment-baseline="before-edge" dominant-baseline="text-before-edge">(3, -1)</tspan></text>
+</defs>
+<use fill="#ffffff" fill-opacity="0" xlink:href="#a"/>
+<use fill-opacity="0" stroke="#ff0000" stroke-width="2" xlink:href="#a"/>
+<use fill="#ffffff" fill-opacity="0" xlink:href="#b"/>
+<use fill-opacity="0" stroke="#10c108" stroke-width="2" xlink:href="#b"/>
+<use fill="#898787" xlink:href="#d"/>
+<use fill="#898787" xlink:href="#e"/>
+<use fill="#898787" xlink:href="#f"/>
+<use fill="#898787" xlink:href="#c"/>
+</svg>
